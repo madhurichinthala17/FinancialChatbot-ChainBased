@@ -51,6 +51,3 @@ for doc in loader.lazy_load():
     cleaned_content = clean_text(doc.page_content)
     doc.page_content = cleaned_content
     filtered_docs.append(doc)
-
-print(filtered_docs[0].page_content[:5780]) 
-print(f"Number of pages removed: {kept}")
