@@ -34,6 +34,3 @@ for i, section in enumerate(sections):
                 metadata={"section_id": i}
             )
         )
-
-print(final_docs[0].metadata)
-print(len(final_docs))
