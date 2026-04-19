@@ -2,6 +2,7 @@ import utils.documentloader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from Helpers.splitter import split_by_sections
 filtered_docs = utils.documentloader.filtered_docs
+from langchain_core.documents import Document
 
 text_splitter = RecursiveCharacterTextSplitter(
     # Set a really small chunk size, just to show.
@@ -14,9 +15,25 @@ text_splitter = RecursiveCharacterTextSplitter(
 
 final_content = "\n".join(doc.page_content for doc in filtered_docs)
 
-sections = split_by_sections(final_content)
 
-final_chunks = []
-for section in sections:
+sections = split_by_sections(final_content)
+# #if we do this, we would loose metadata like page details
+# final_chunks = []
+# for section in sections:
+#     chunks = text_splitter.split_text(section)
+#     final_chunks.extend(chunks)
+
+final_docs=[]
+for i, section in enumerate(sections):
     chunks = text_splitter.split_text(section)
-    final_chunks.extend(chunks)
+
+    for chunk in chunks:
+        final_docs.append(
+            Document(
+                page_content=chunk,
+                metadata={"section_id": i}
+            )
+        )
+
+print(final_docs[0].metadata)
+print(len(final_docs))
