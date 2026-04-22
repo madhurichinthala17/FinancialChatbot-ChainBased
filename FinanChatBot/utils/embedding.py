@@ -21,7 +21,9 @@ chromastore = Chroma(
     persist_directory="C:\\Users\\madhu\\FinancialChatbot-ChainBased\\FinanChatBot\\vectorstore\\chroma_langchain_db",
 )
 
-chromastore.add_documents(final_docs)
+# ONLY add if DB is empty or new docs exist
+if chromastore._collection.count() == 0:
+    chromastore.add_documents(final_docs)
 
 # results = chromastore.similarity_search(query="What are JPMorgan risk factors?", k=4)
 # for doc in results:

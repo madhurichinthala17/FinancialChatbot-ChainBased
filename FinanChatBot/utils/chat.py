@@ -52,11 +52,10 @@ chain_with_message_history= RunnableWithMessageHistory(
     input_messages_key="query",
     history_messages_key="history"
 )
-# 2. Invoke the chain directly with the query
-query= "What are the main categories of risk faced by JPMorgan?"
-response = chain_with_message_history.invoke({"query" : query}, config = {"configurable" : {"session_id" : "madhuri"}})
 
-print(response)
+
+def response(query : str , session_id ):
+    return chain_with_message_history.invoke({"query" : query}, config = {"configurable" : {"session_id" : session_id}})
 
 # The "Real-World" Analogy
 # Imagine an assembly line for making a sandwich:
