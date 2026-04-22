@@ -11,9 +11,9 @@ chatmodel = ChatOllama(
     temperature=0.8,
     # other params ...
 )
-prompt_template = ChatPromptTemplate.from_messages([
-    ("system", "You are a helpful assistant who gives info to the users."),
-    ("human", "{input}") ])
+# prompt_template = ChatPromptTemplate.from_messages([
+#     ("system", "You are a helpful assistant who gives info to the users."),
+#     ("human", "{input}") ])
 
 # #without chaining
 # prompt = prompt_template.invoke(input="Advantages of using MachineLearning ?")
@@ -22,9 +22,9 @@ prompt_template = ChatPromptTemplate.from_messages([
 
 # print(response)
 
-chain = prompt_template | chatmodel | StrOutputParser()
-response = chain.invoke(input="Advantages of using MachineLearning ?")
-print(response)
+# chain = prompt_template | chatmodel | StrOutputParser()
+# response = chain.invoke(input="Advantages of using MachineLearning ?")
+# print(response)
 
 #invocing the agent with a message
 #always in a dictionary
