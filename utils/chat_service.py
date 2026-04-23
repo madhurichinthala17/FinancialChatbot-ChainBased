@@ -19,6 +19,9 @@ from operator import itemgetter
 def format_docs(docs):
     return "\n\n".join(doc.page_content for doc in docs)
 
+# Build the retriever instance once at module load time..
+retriever = build_retriever()
+
 store = {}
 def get_session_history(session_id):
     if session_id not in store:
@@ -36,7 +39,7 @@ def get_session_history(session_id):
 #We always need to pass all the variables in the prompt first
 chain = (
     {
-    "retriever_context": RunnableLambda(lambda x : format_docs(build_retriever.invoke(x["query"]))),
+    "retriever_context": RunnableLambda(lambda x : format_docs(retriever.invoke(x["query"]))),
     "query": RunnableLambda(lambda x : x["query"]), 
     "history":  itemgetter("history") 
     }
