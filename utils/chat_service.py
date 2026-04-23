@@ -1,8 +1,8 @@
 from utils.prompt import template
-from utils.buildretriever import retriever
+from utils.buildretriever import build_retriever
 
 from langchain_core.output_parsers import StrOutputParser
-from langchain_core.runnables import RunnablePassthrough, RunnableWithMessageHistory, RunnableLambda
+from langchain_core.runnables import RunnableWithMessageHistory, RunnableLambda
 from langchain_community.chat_message_histories import ChatMessageHistory
 from utils.model import chatmodel
 from operator import itemgetter
@@ -36,7 +36,7 @@ def get_session_history(session_id):
 #We always need to pass all the variables in the prompt first
 chain = (
     {
-    "retriever_context": RunnableLambda(lambda x : format_docs(retriever.invoke(x["query"]))),
+    "retriever_context": RunnableLambda(lambda x : format_docs(build_retriever.invoke(x["query"]))),
     "query": RunnableLambda(lambda x : x["query"]), 
     "history":  itemgetter("history") 
     }
@@ -54,7 +54,7 @@ chain_with_message_history= RunnableWithMessageHistory(
 )
 
 
-def response(query : str , session_id ):
+def get_response(query : str , session_id ):
     return chain_with_message_history.invoke({"query" : query}, config = {"configurable" : {"session_id" : session_id}})
 
 # The "Real-World" Analogy

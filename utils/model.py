@@ -1,9 +1,4 @@
-# First importing model from langchain_ollama
 from langchain_ollama import ChatOllama
-from langchain.agents import create_agent
-from langchain.messages import HumanMessage
-from langchain_core.prompts import ChatPromptTemplate
-from langchain_core.output_parsers import StrOutputParser
 
 # Instantiating the model with the specified parameters
 chatmodel = ChatOllama(

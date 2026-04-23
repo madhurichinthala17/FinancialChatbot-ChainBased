@@ -1,14 +1,9 @@
 from langchain_community.document_loaders import PyMuPDFLoader
 from Helpers.cleaner import clean_text
 
-filepath = "C:\\Users\\madhu\\FinancialChatbot-ChainBased\\testdata\\JPmorgan10kReport.pdf"
+PDF_PATH= "C:\\Users\\madhu\\FinancialChatbot-ChainBased\\testdata\\JPmorgan10kReport.pdf"
 
-loader = PyMuPDFLoader(
-    filepath,
-    extract_tables="markdown"
-    #mode = "single",
-    #pages_delimiter= "-----This is the end of the page-----"
-    )
+
 
 #I can load document using load() method but it will load the entire document in memory and 
 # if the document is large it may cause memory issues. So I can use lazy_load() method which will load the document in chunks 
@@ -25,29 +20,35 @@ loader = PyMuPDFLoader(
 # docs = loader.load()
 # print(docs[0].page_content[:5780]) 
 
+def load_filtered_docs(filepath : str =PDF_PATH):
+    loader = PyMuPDFLoader(
+    filepath,
+    extract_tables="markdown"
+    #mode = "single",
+    #pages_delimiter= "-----This is the end of the page-----"
+    )
 
-filtered_docs = []
+    filtered_docs = []
 
-kept =0
-for doc in loader.lazy_load():
 
-    page_num = doc.metadata.get("page", 0)
-    content = doc.page_content.lower()
+    for doc in loader.lazy_load():
+
+        page_num = doc.metadata.get("page", 0)
+        content = doc.page_content.lower()
 
     # Skip early pages
-    if page_num < 3:
-        kept=kept+1
-        continue
+        if page_num < 3:
+            continue
 
     # Skip noisy pages
-    if "glossary of terms and acronyms" in content:
-        kept=kept+1
-        continue
+        if "glossary of terms and acronyms" in content:
+            continue
 
-    if "signatures" in content:
-        kept=kept+1
-        continue
+        if "signatures" in content:
+            continue
 
-    cleaned_content = clean_text(doc.page_content)
-    doc.page_content = cleaned_content
-    filtered_docs.append(doc)
+        cleaned_content = clean_text(doc.page_content)
+        doc.page_content = cleaned_content
+        filtered_docs.append(doc)
+
+    return filtered_docs

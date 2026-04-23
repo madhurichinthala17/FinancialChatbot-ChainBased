@@ -1,8 +1,8 @@
-from utils.embedding import chromastore
+from utils.embedding import get_vectorstore
 
-retriever = chromastore.as_retriever(
-    search_kwargs = {"k" : 4,}
-)
+def build_retriever(k: int = 4):
+    store = get_vectorstore()
+    return store.as_retriever(search_kwargs={"k": k})
 
 # result = retriever.invoke("What factors contribute to operational risk in the firm?")
 # for doc in result:
