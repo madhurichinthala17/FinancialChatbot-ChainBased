@@ -34,7 +34,9 @@ retriever = build_retriever()
 #We always need to pass all the variables in the prompt first
 chain = (
     {
-    "retriever_context": RunnableLambda(lambda x : format_docs(retriever.invoke(x["query"]))),
+    "retriever_context": RunnableLambda( lambda x: x["retriever_context"] if "retriever_context" in x 
+                                        else format_docs(retriever.invoke(x["query"]))
+                                        ), #So that it can be reused with chatbot and LLM
     "query": RunnableLambda(lambda x : x["query"]), 
     "history":  itemgetter("history") 
     }
