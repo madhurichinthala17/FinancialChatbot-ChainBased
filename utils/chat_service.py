@@ -1,9 +1,9 @@
 from utils.prompt import template
 from utils.buildretriever import build_retriever
-
+from Helpers.sessionhistory import get_session_history
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnableWithMessageHistory, RunnableLambda
-from langchain_community.chat_message_histories import ChatMessageHistory
+
 from utils.model import chatmodel
 from operator import itemgetter
 
@@ -22,11 +22,6 @@ def format_docs(docs):
 # Build the retriever instance once at module load time..
 retriever = build_retriever()
 
-store = {}
-def get_session_history(session_id):
-    if session_id not in store:
-        store[session_id] = ChatMessageHistory()
-    return store[session_id]
 
 #The below chain works when we are only passing the query without history , but with history we npass dictionary so we need to extract query from history
 # chain = (
