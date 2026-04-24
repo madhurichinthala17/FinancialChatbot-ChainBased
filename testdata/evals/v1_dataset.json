@@ -144,8 +144,8 @@
     "section": "General",
     "difficulty": "hard",
     "key_points": [
-      "should depend on conversation history",
-      "tests memory + context handling"
+      "memory is not passed",
+      "Should say that I dont know"
     ]
   },
   {
