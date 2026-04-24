@@ -1,0 +1,181 @@
+[
+  {
+    "id": "q1",
+    "question": "What are the main categories of risk faced by JPMorgan?",
+    "type": "factual",
+    "section": "Risk Factors",
+    "difficulty": "easy",
+    "key_points": [
+      "credit risk",
+      "market risk",
+      "operational risk",
+      "strategic risk"
+    ]
+  },
+  {
+    "id": "q2",
+    "question": "What is operational risk?",
+    "type": "factual",
+    "section": "MD&A",
+    "difficulty": "easy",
+    "key_points": [
+      "failed internal processes",
+      "systems issues",
+      "human factors",
+      "external events"
+    ]
+  },
+  {
+    "id": "q3",
+    "question": "What are examples of operational risk?",
+    "type": "factual",
+    "section": "MD&A",
+    "difficulty": "easy",
+    "key_points": [
+      "fraud",
+      "cyber attacks",
+      "business disruption",
+      "employee misconduct"
+    ]
+  },
+  {
+    "id": "q4",
+    "question": "What is market risk?",
+    "type": "factual",
+    "section": "MD&A",
+    "difficulty": "easy",
+    "key_points": [
+      "changes in interest rates",
+      "foreign exchange rates",
+      "equity prices",
+      "commodity prices"
+    ]
+  },
+  {
+    "id": "q5",
+    "question": "What does credit risk refer to?",
+    "type": "factual",
+    "section": "Risk Factors",
+    "difficulty": "easy",
+    "key_points": [
+      "default of a client",
+      "change in credit profile",
+      "loss of principal"
+    ]
+  },
+  {
+    "id": "q6",
+    "question": "Explain operational risk and how it is managed.",
+    "type": "reasoning",
+    "section": "MD&A",
+    "difficulty": "medium",
+    "key_points": [
+      "definition of operational risk",
+      "examples of risks",
+      "risk management processes",
+      "monitoring and reporting"
+    ]
+  },
+  {
+    "id": "q7",
+    "question": "How does JPMorgan manage market risk?",
+    "type": "reasoning",
+    "section": "MD&A",
+    "difficulty": "medium",
+    "key_points": [
+      "risk measurement",
+      "monitoring",
+      "policy framework",
+      "limits and controls"
+    ]
+  },
+  {
+    "id": "q8",
+    "question": "What factors can negatively impact JPMorgan’s financial condition?",
+    "type": "reasoning",
+    "section": "Risk Factors",
+    "difficulty": "medium",
+    "key_points": [
+      "regulatory changes",
+      "economic conditions",
+      "market risks",
+      "operational failures"
+    ]
+  },
+  {
+    "id": "q9",
+    "question": "Explain the role of regulatory risks in JPMorgan’s business.",
+    "type": "reasoning",
+    "section": "Risk Factors",
+    "difficulty": "hard",
+    "key_points": [
+      "regulation impact",
+      "compliance requirements",
+      "changes in laws",
+      "geographical differences"
+    ]
+  },
+  {
+    "id": "q10",
+    "question": "What risks are there?",
+    "type": "vague",
+    "section": "General",
+    "difficulty": "medium",
+    "key_points": [
+      "should list multiple risk types",
+      "should not hallucinate outside document"
+    ]
+  },
+  {
+    "id": "q11",
+    "question": "Tell me about risks.",
+    "type": "vague",
+    "section": "General",
+    "difficulty": "medium",
+    "key_points": [
+      "broad explanation",
+      "should stay within document context"
+    ]
+  },
+  {
+    "id": "q12",
+    "question": "Explain that more.",
+    "type": "vague",
+    "section": "General",
+    "difficulty": "hard",
+    "key_points": [
+      "should depend on conversation history",
+      "tests memory + context handling"
+    ]
+  },
+  {
+    "id": "q13",
+    "question": "What is JPMorgan’s stock price?",
+    "type": "out_of_context",
+    "section": "None",
+    "difficulty": "easy",
+    "key_points": [
+      "should say not found in documents"
+    ]
+  },
+  {
+    "id": "q14",
+    "question": "Who is the CEO of JPMorgan in 2026?",
+    "type": "out_of_context",
+    "section": "None",
+    "difficulty": "easy",
+    "key_points": [
+      "should say not found in documents"
+    ]
+  },
+  {
+    "id": "q15",
+    "question": "What is inflation rate in the US?",
+    "type": "out_of_context",
+    "section": "None",
+    "difficulty": "easy",
+    "key_points": [
+      "should reject or say not in context"
+    ]
+  }
+]
