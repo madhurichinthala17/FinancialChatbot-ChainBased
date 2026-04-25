@@ -1,0 +1,467 @@
+[
+    {
+        "id": "q1",
+        "question": "What are the main categories of risk faced by JPMorgan?",
+        "retrieved_chunks": [
+            {
+                "content": "evolution, business decisions, process or judgment error, deliberate wrongdoing, dysfunctional markets and natural Types of risks are categories by which risks manifest themselves. The Firm\u2019s risks are generally categorized in \u2022 Strategic risk is the risk to earnings, capital, liquidity or reputation associated with poorly-designed or failed business plans or an inadequate response to changes \u2022 Credit and investment risk is the risk associated with the default or change in credit profile of a client, counterparty or customer; or loss of principal or a reduction in expected returns on investments, including consumer credit risk, wholesale credit risk and \u2022 Market risk is the risk associated with the effect of changes in market factors, such as interest and foreign exchange rates, equity and commodity prices, credit spreads or implied volatilities, on the value of assets and liabilities held for both the short and long term. \u2022 Operational risk is the risk of an adverse outcome resulting from inadequate or failed internal processes or systems; human factors; or external events impacting the Firm\u2019s processes or systems. Operational risk includes cybersecurity, compliance, conduct,",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "include: The Firmwide Risk Committee (\u201cFRC\u201d) is the Firm\u2019s highest management-level risk committee. It oversees the risks inherent in the Firm\u2019s business and provides a forum for discussion of risk-related and other topics and issues that are raised or escalated by its members and other The Firmwide Control Committee (\u201cFCC\u201d) is an escalation committee for senior management to review and discuss the Firmwide compliance and operational risk environment, including identified issues, compliance and operational risk metrics and significant events that have Line of Business and Regional Risk Committees are responsible for overseeing the governance, limits and controls that have been established within the scope of their respective activities. These committees review the ways in which the particular LOB or the businesses operating in a particular region could be exposed to adverse outcomes, with a focus on identifying, accepting, escalating and/or requiring remediation of matters brought The Control Committees for the LOBs and certain of the Corporate functions oversee the risk and control environment of their respective business or function, inclusive of Operational Risk, Compliance and",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "Management\u2019s discussion and analysis Operational risk is the risk of an adverse outcome resulting from inadequate or failed internal processes or systems; human factors; or external events impacting the Firm\u2019s processes or systems. Operational risk includes compliance, conduct, legal, and estimations and model risk. Operational risk is inherent in the Firm\u2019s activities and can manifest itself in various ways, including fraudulent acts, business disruptions (including those caused by extraordinary events beyond the Firm's control), cyber attacks, inappropriate employee behavior, failure to comply with applicable laws, rules and regulations or failure of vendors or other third party providers to perform in accordance with their agreements. Operational Risk Management attempts to manage operational risk at appropriate levels in light of the Firm\u2019s financial position, the characteristics of its businesses, and the markets and regulatory environments in which it operates. Operational Risk Management Framework The Firm\u2019s Compliance, Conduct, and Operational Risk (\u201cCCOR\u201d) Management Framework is designed to enable the Firm to govern, identify, measure, monitor and test, manage and report",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "Management\u2019s discussion and analysis Compliance risk, a subcategory of operational risk, is the risk of failing to comply with laws, rules, regulations or codes of conduct and standards of self-regulatory Each of the LOBs and Corporate hold primary ownership of and accountability for managing their compliance risk. The Firm\u2019s Operational Risk and Compliance Organization (\u201cOperational Risk and Compliance\u201d), which is independent of the LOBs and Corporate, provides independent review, monitoring and oversight of business operations with a focus on compliance with the laws, rules, and regulations applicable to the delivery of the Firm\u2019s products and services to clients and customers. These compliance risks relate to a wide variety of laws, rules and regulations across the LOBs and Corporate, and jurisdictions, and include risks related to financial products and services, relationships and interactions with clients and customers, and employee activities. For example, compliance risks include those associated with anti-money laundering compliance, trading activities, market conduct, and complying with the laws, rules, and regulations related to the offering of products and services",
+                "metadata": {
+                    "section_id": 12
+                }
+            }
+        ],
+        "actual_answer": "The main categories of risk faced by JPMorgan, as outlined in the provided context, are:\n\n1. Strategic risk\n2. Credit and investment risk\n3. Market risk\n4. Operational risk\n\nThese categories are described with respect to their manifestations and areas of concern within the firm's operations."
+    },
+    {
+        "id": "q2",
+        "question": "What is operational risk?",
+        "retrieved_chunks": [
+            {
+                "content": "Conduct risk, a subcategory of operational risk, is the risk that any action or misconduct by an employee could lead to unfair client or customer outcomes, impact the integrity of the markets in which the Firm operates, harm employees or the Firm, or compromise the Firm\u2019s Each LOB and Corporate is accountable for identifying and managing its conduct risk to provide appropriate engagement, ownership and sustainability of a culture consistent with the Firm\u2019s Business Principles. The Business Principles serve as a guide for how employees are expected to conduct themselves. With the Business Principles serving as a guide, the Firm\u2019s Code sets out the Firm\u2019s expectations for each employee and provides information and resources to help employees conduct business ethically and in compliance with applicable laws, rules and regulations everywhere the Firm operates. Refer to Compliance Risk Management on page 150 for further discussion of the Code. The Firm\u2019s oversight and coordination of conduct risk is managed in the same manner as Compliance risk. Refer to Compliance Risk Management on page 150 for further Conduct risk management encompasses various aspects of people management practices",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "or emerging risk. The CCOR organization is responsible for providing independent, risk-based review and oversight of assessments conducted by the LOBs and Corporate with respect to compliance, conduct and operational risks. This includes oversight of the LOBs\u2019 and Corporate\u2019s assessments of the design, execution, and evaluation of associated controls, against standards established by the In addition, Operational Risk and Compliance assesses operational risks through quantitative means, including operational risk-based capital and estimation of operational risk losses under both baseline and stressed The primary component of the operational risk-based capital estimate is the Loss Distribution Approach (\u201cLDA\u201d) statistical model, which simulates the projected frequency and severity of operational risk losses based on historical data. The LDA model is used to estimate an aggregate operational risk loss over a one-year time horizon, at a 99.9% confidence level. The LDA model incorporates actual internal operational risk losses in the quarter following the period in which those losses were realized, and the calculation generally continues to reflect such losses even after the issues or",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "Management\u2019s discussion and analysis Operational risk is the risk of an adverse outcome resulting from inadequate or failed internal processes or systems; human factors; or external events impacting the Firm\u2019s processes or systems. Operational risk includes compliance, conduct, legal, and estimations and model risk. Operational risk is inherent in the Firm\u2019s activities and can manifest itself in various ways, including fraudulent acts, business disruptions (including those caused by extraordinary events beyond the Firm's control), cyber attacks, inappropriate employee behavior, failure to comply with applicable laws, rules and regulations or failure of vendors or other third party providers to perform in accordance with their agreements. Operational Risk Management attempts to manage operational risk at appropriate levels in light of the Firm\u2019s financial position, the characteristics of its businesses, and the markets and regulatory environments in which it operates. Operational Risk Management Framework The Firm\u2019s Compliance, Conduct, and Operational Risk (\u201cCCOR\u201d) Management Framework is designed to enable the Firm to govern, identify, measure, monitor and test, manage and report",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "Management\u2019s discussion and analysis Compliance risk, a subcategory of operational risk, is the risk of failing to comply with laws, rules, regulations or codes of conduct and standards of self-regulatory Each of the LOBs and Corporate hold primary ownership of and accountability for managing their compliance risk. The Firm\u2019s Operational Risk and Compliance Organization (\u201cOperational Risk and Compliance\u201d), which is independent of the LOBs and Corporate, provides independent review, monitoring and oversight of business operations with a focus on compliance with the laws, rules, and regulations applicable to the delivery of the Firm\u2019s products and services to clients and customers. These compliance risks relate to a wide variety of laws, rules and regulations across the LOBs and Corporate, and jurisdictions, and include risks related to financial products and services, relationships and interactions with clients and customers, and employee activities. For example, compliance risks include those associated with anti-money laundering compliance, trading activities, market conduct, and complying with the laws, rules, and regulations related to the offering of products and services",
+                "metadata": {
+                    "section_id": 12
+                }
+            }
+        ],
+        "actual_answer": "Operational risk is the risk of an adverse outcome resulting from inadequate or failed internal processes or systems; human factors; or external events impacting the Firm\u2019s processes or systems. Operational risk includes compliance, conduct, legal, and estimations and model risk."
+    },
+    {
+        "id": "q3",
+        "question": "What are examples of operational risk?",
+        "retrieved_chunks": [
+            {
+                "content": "risk appetite. The standards establish escalation protocols to senior management and to the Board of Directors. One of the ways in which operational risk may be mitigated is through insurance maintained by the Firm. The Firm purchases insurance from commercial insurers and maintains a wholly-owned captive insurer, Park Assurance Company. Insurance may also be required by third parties with whom the Firm does Subcategories and examples of operational risks Operational risk can manifest itself in various ways. Operational risk subcategories include Compliance risk, Conduct risk, Legal risk, and Estimations and Model risk. Refer to pages 150, 151, 152 and 153, respectively for more information on Compliance, Conduct, Legal, and Estimations and Model risk. Details on other select examples of operational risks such as firmwide resiliency, payment fraud and third-party outsourcing, as well as cybersecurity, are provided below. Disruptions of the Firm\u2019s business and operations can occur due to forces beyond the Firm\u2019s control such as health emergencies, severe weather, natural disasters, the effects of climate change, utility or telecommunications failures, interruption of service from",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "or emerging risk. The CCOR organization is responsible for providing independent, risk-based review and oversight of assessments conducted by the LOBs and Corporate with respect to compliance, conduct and operational risks. This includes oversight of the LOBs\u2019 and Corporate\u2019s assessments of the design, execution, and evaluation of associated controls, against standards established by the In addition, Operational Risk and Compliance assesses operational risks through quantitative means, including operational risk-based capital and estimation of operational risk losses under both baseline and stressed The primary component of the operational risk-based capital estimate is the Loss Distribution Approach (\u201cLDA\u201d) statistical model, which simulates the projected frequency and severity of operational risk losses based on historical data. The LDA model is used to estimate an aggregate operational risk loss over a one-year time horizon, at a 99.9% confidence level. The LDA model incorporates actual internal operational risk losses in the quarter following the period in which those losses were realized, and the calculation generally continues to reflect such losses even after the issues or",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "ESTIMATIONS AND MODEL RISK MANAGEMENT Estimations and Model risk, a subcategory of operational risk, is the potential for adverse consequences from decisions based on incorrect or misused estimation The Firm uses models and other analytical and judgment- based estimations, including those based upon machine learning or artificial intelligence techniques, across various businesses and functions. The estimation methods are of varying levels of sophistication and are used for many purposes, such as the valuation of positions and measurement of risk, assessing regulatory capital requirements, conducting stress testing, evaluating the allowance for credit losses and making business decisions. A dedicated independent function, Model Risk Governance and Review (\u201cMRGR\u201d), defines and governs the Firm\u2019s policies relating to the management of model risk and risks associated with certain analytical and judgment-based estimations, such as those used in risk management, budget forecasting and capital planning and Model risks are owned by the users of the models within the LOBs and Corporate based on the specific purposes of such models. Users and developers of models are responsible for",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "Management\u2019s discussion and analysis Compliance risk, a subcategory of operational risk, is the risk of failing to comply with laws, rules, regulations or codes of conduct and standards of self-regulatory Each of the LOBs and Corporate hold primary ownership of and accountability for managing their compliance risk. The Firm\u2019s Operational Risk and Compliance Organization (\u201cOperational Risk and Compliance\u201d), which is independent of the LOBs and Corporate, provides independent review, monitoring and oversight of business operations with a focus on compliance with the laws, rules, and regulations applicable to the delivery of the Firm\u2019s products and services to clients and customers. These compliance risks relate to a wide variety of laws, rules and regulations across the LOBs and Corporate, and jurisdictions, and include risks related to financial products and services, relationships and interactions with clients and customers, and employee activities. For example, compliance risks include those associated with anti-money laundering compliance, trading activities, market conduct, and complying with the laws, rules, and regulations related to the offering of products and services",
+                "metadata": {
+                    "section_id": 12
+                }
+            }
+        ],
+        "actual_answer": "Operational risk can manifest itself in various ways. Operational risk subcategories include Compliance risk, Conduct risk, Legal risk, and Estimations and Model risk."
+    },
+    {
+        "id": "q4",
+        "question": "What is market risk?",
+        "retrieved_chunks": [
+            {
+                "content": "Market risk is the risk associated with the effect of changes in market factors such as interest and foreign exchange rates, equity and commodity prices, credit spreads or implied volatilities, on the value of assets and liabilities held for both the short and long term. Market Risk Management monitors market risks throughout the Firm and defines market risk policies and Market Risk Management seeks to measure risk, facilitate efficient risk/return decisions, reduce volatility in operating performance and provide transparency into the Firm\u2019s market risk profile for senior management, the Board of Directors and regulators. Market Risk Management is responsible for the following functions: \u2022 Maintaining a market risk policy framework \u2022 Independently measuring and monitoring LOB, Corporate, and Firmwide market risk \u2022 Defining, approving and monitoring limits \u2022 Performing stress testing and qualitative risk Measures used to capture market risk There is no single measure to capture market risk and therefore Market Risk Management uses various metrics, both statistical and nonstatistical, to assess risk including: \u2022 Other sensitivity-based measures Market risk exposure is managed",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "evolution, business decisions, process or judgment error, deliberate wrongdoing, dysfunctional markets and natural Types of risks are categories by which risks manifest themselves. The Firm\u2019s risks are generally categorized in \u2022 Strategic risk is the risk to earnings, capital, liquidity or reputation associated with poorly-designed or failed business plans or an inadequate response to changes \u2022 Credit and investment risk is the risk associated with the default or change in credit profile of a client, counterparty or customer; or loss of principal or a reduction in expected returns on investments, including consumer credit risk, wholesale credit risk and \u2022 Market risk is the risk associated with the effect of changes in market factors, such as interest and foreign exchange rates, equity and commodity prices, credit spreads or implied volatilities, on the value of assets and liabilities held for both the short and long term. \u2022 Operational risk is the risk of an adverse outcome resulting from inadequate or failed internal processes or systems; human factors; or external events impacting the Firm\u2019s processes or systems. Operational risk includes cybersecurity, compliance, conduct,",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "\u2022 Maintaining a market risk policy framework \u2022 Independently measuring and monitoring LOB, Corporate, and Firmwide market risk \u2022 Defining, approving and monitoring limits \u2022 Performing stress testing and qualitative risk Measures used to capture market risk There is no single measure to capture market risk and therefore Market Risk Management uses various metrics, both statistical and nonstatistical, to assess risk including: \u2022 Other sensitivity-based measures Market risk exposure is managed primarily through a series of limits set in the context of the market environment and business strategy. In setting limits, Market Risk Management takes into consideration factors such as market volatility, product liquidity, accommodation of client business, and management judgment. Market Risk Management maintains different levels of limits. Firm level limits include VaR and stress limits. Similarly, LOB and Corporate limits include VaR and stress limits and may be supplemented by certain nonstatistical risk measures such as profit and loss drawdowns. Limits may also be set within the LOBs and Corporate, as well as at Market Risk Management sets limits and regularly reviews and updates them",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "Management\u2019s discussion and analysis Operational risk is the risk of an adverse outcome resulting from inadequate or failed internal processes or systems; human factors; or external events impacting the Firm\u2019s processes or systems. Operational risk includes compliance, conduct, legal, and estimations and model risk. Operational risk is inherent in the Firm\u2019s activities and can manifest itself in various ways, including fraudulent acts, business disruptions (including those caused by extraordinary events beyond the Firm's control), cyber attacks, inappropriate employee behavior, failure to comply with applicable laws, rules and regulations or failure of vendors or other third party providers to perform in accordance with their agreements. Operational Risk Management attempts to manage operational risk at appropriate levels in light of the Firm\u2019s financial position, the characteristics of its businesses, and the markets and regulatory environments in which it operates. Operational Risk Management Framework The Firm\u2019s Compliance, Conduct, and Operational Risk (\u201cCCOR\u201d) Management Framework is designed to enable the Firm to govern, identify, measure, monitor and test, manage and report",
+                "metadata": {
+                    "section_id": 12
+                }
+            }
+        ],
+        "actual_answer": "Market risk is the risk associated with the effect of changes in market factors such as interest and foreign exchange rates, equity and commodity prices, credit spreads or implied volatilities, on the value of assets and liabilities held for both the short and long term."
+    },
+    {
+        "id": "q5",
+        "question": "What does credit risk refer to?",
+        "retrieved_chunks": [
+            {
+                "content": "CREDIT AND INVESTMENT RISK MANAGEMENT Credit and investment risk is the risk associated with the default or change in credit profile of a client, counterparty or customer; or loss of principal or a reduction in expected returns on investments, including consumer credit risk, wholesale credit risk, and investment portfolio risk. Credit risk is the risk associated with the default or change in credit profile of a client, counterparty or customer. The Firm provides credit to a variety of clients and customers, ranging from large corporate and institutional clients to individual consumers and small businesses. In its consumer businesses, the Firm is exposed to credit risk primarily through its home lending, credit card, auto, and business banking businesses. In its wholesale businesses, the Firm is exposed to credit risk through its underwriting, lending, market-making, and hedging activities with and for clients and counterparties, as well as through its operating services activities (such as cash management and clearing activities), and securities financing activities. The Firm is also exposed to credit risk through its investment securities portfolio and Credit Risk Management",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "Credit risk is the risk associated with the default or change in credit profile of a client, counterparty or In the following tables, total loans include loans retained (i.e., held-for-investment); loans held-for-sale; and certain loans accounted for at fair value. The following tables do not include loans which the Firm accounts for at fair value and classifies as trading assets; refer to Notes 2 and 3 for further information regarding these loans. Refer to Notes 12, 28, and 5 for additional information on the Firm\u2019s loans, lending-related commitments and derivative receivables, including the Firm\u2019s related accounting Refer to Note 10 for information regarding the credit risk inherent in the Firm\u2019s investment securities portfolio; and refer to Note 11 for information regarding credit risk inherent in the securities financing portfolio. Refer to Consumer Credit Portfolio on pages 112\u2013117 and Note 12 for further discussions of the consumer credit environment, consumer loans and nonperforming exposure. Refer to Wholesale Credit Portfolio on pages 118\u2013128 and Note 12 for further discussions of the wholesale credit environment, wholesale loans and Total credit portfolio $ 3,415,849",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "credit risk arising from certain financial instruments in the Firm\u2019s market-making businesses. Following is a summary of various types of Credit derivatives may reference the credit of either a single reference entity (\u201csingle-name\u201d), broad-based index or portfolio. The Firm purchases and sells protection on both single- name and index-reference obligations. Single-name CDS and index CDS contracts are either OTC or OTC-cleared derivative contracts. Single-name CDS are used to manage the default risk of a single reference entity, while index CDS contracts are used to manage the credit risk associated with the broader credit markets or credit market segments. Like the S&P 500 and other market indices, a CDS index consists of a portfolio of CDS across many reference entities. New series of CDS indices are periodically established with a new underlying portfolio of reference entities to reflect changes in the credit markets. If one of the reference entities in the index experiences a credit event, then the reference entity that defaulted is removed from the index. CDS can also be referenced against specific portfolios of reference names or against customized exposure levels: for",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "Maintaining a credit risk policy framework \u2022 Monitoring and measuring credit risk across all portfolio segments, including transaction and exposure approval \u2022 Setting industry and geographic concentration limits, as appropriate, and setting guidelines for credit review and \u2022 Assigning and maintaining credit approval authorities in connection with the approval of credit exposure \u2022 Monitoring and independent assessment of criticized exposures and delinquent loans, and \u2022 Estimating credit losses, including periodic review and refinement of underlying assumptions, and supporting appropriate credit risk-based capital management Risk identification and measurement To measure credit risk, the Firm employs several methodologies for estimating the likelihood of obligor or counterparty default. Methodologies for measuring credit risk vary depending on several factors, including type of asset (e.g., consumer versus wholesale), risk measurement parameters (e.g., delinquency status and borrower\u2019s credit score versus wholesale risk-rating) and risk management and collection processes (e.g., retail collection center versus centrally managed workout groups). Credit risk measurement is based on",
+                "metadata": {
+                    "section_id": 12
+                }
+            }
+        ],
+        "actual_answer": "Credit risk refers to the risk associated with the default or change in credit profile of a client, counterparty or customer; or loss of principal or a reduction in expected returns on investments."
+    },
+    {
+        "id": "q6",
+        "question": "Explain operational risk and how it is managed.",
+        "retrieved_chunks": [
+            {
+                "content": "Conduct risk, a subcategory of operational risk, is the risk that any action or misconduct by an employee could lead to unfair client or customer outcomes, impact the integrity of the markets in which the Firm operates, harm employees or the Firm, or compromise the Firm\u2019s Each LOB and Corporate is accountable for identifying and managing its conduct risk to provide appropriate engagement, ownership and sustainability of a culture consistent with the Firm\u2019s Business Principles. The Business Principles serve as a guide for how employees are expected to conduct themselves. With the Business Principles serving as a guide, the Firm\u2019s Code sets out the Firm\u2019s expectations for each employee and provides information and resources to help employees conduct business ethically and in compliance with applicable laws, rules and regulations everywhere the Firm operates. Refer to Compliance Risk Management on page 150 for further discussion of the Code. The Firm\u2019s oversight and coordination of conduct risk is managed in the same manner as Compliance risk. Refer to Compliance Risk Management on page 150 for further Conduct risk management encompasses various aspects of people management practices",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "to perform in accordance with their agreements. Operational Risk Management attempts to manage operational risk at appropriate levels in light of the Firm\u2019s financial position, the characteristics of its businesses, and the markets and regulatory environments in which it operates. Operational Risk Management Framework The Firm\u2019s Compliance, Conduct, and Operational Risk (\u201cCCOR\u201d) Management Framework is designed to enable the Firm to govern, identify, measure, monitor and test, manage and report on the Firm\u2019s operational risk. The LOBs and Corporate are responsible for the management of operational risk. The Control Management Organization, which consists of control managers within each LOB and Corporate, is responsible for the day-to-day execution of the CCOR Management Framework. The Firm\u2019s Global Chief Compliance Officer (\u201cCCO\u201d) and FRE for Operational Risk and Qualitative Risk Appetite is responsible for defining the CCOR Management Framework and establishing the minimum standards for its execution. The LOB and Corporate aligned officers of the CCOR organization oversee activity performed by their aligned LOB and Corporate. These officers report to the Global CCO and FRE for",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "risk appetite. The standards establish escalation protocols to senior management and to the Board of Directors. One of the ways in which operational risk may be mitigated is through insurance maintained by the Firm. The Firm purchases insurance from commercial insurers and maintains a wholly-owned captive insurer, Park Assurance Company. Insurance may also be required by third parties with whom the Firm does Subcategories and examples of operational risks Operational risk can manifest itself in various ways. Operational risk subcategories include Compliance risk, Conduct risk, Legal risk, and Estimations and Model risk. Refer to pages 150, 151, 152 and 153, respectively for more information on Compliance, Conduct, Legal, and Estimations and Model risk. Details on other select examples of operational risks such as firmwide resiliency, payment fraud and third-party outsourcing, as well as cybersecurity, are provided below. Disruptions of the Firm\u2019s business and operations can occur due to forces beyond the Firm\u2019s control such as health emergencies, severe weather, natural disasters, the effects of climate change, utility or telecommunications failures, interruption of service from",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "may advise the LOBs and Corporate in the development and implementation of action plans. All employees of the Firm are expected to escalate risks appropriately. Risks identified by Operational Risk and Compliance are escalated to the appropriate LOB and Corporate Control Committees, as needed. Operational Risk and Compliance has established standards designed to ensure that consistent operational risk reporting and operational risk reports are produced on a Firmwide basis as well as by the LOBs and Corporate. Reporting includes the evaluation of key risk and performance indicators against established thresholds as well as the assessment of different types of operational risk against stated risk appetite. The standards establish escalation protocols to senior management and to the Board of Directors. One of the ways in which operational risk may be mitigated is through insurance maintained by the Firm. The Firm purchases insurance from commercial insurers and maintains a wholly-owned captive insurer, Park Assurance Company. Insurance may also be required by third parties with whom the Firm does Subcategories and examples of operational risks Operational risk can manifest itself in",
+                "metadata": {
+                    "section_id": 12
+                }
+            }
+        ],
+        "actual_answer": "Operational risk encompasses various ways that risks can manifest, including Compliance risk, Conduct risk, Legal risk, and Estimations and Model risk. The Firm's operational risk management framework is known as its CCOR (Compliance, Conduct, and Operational Risk) Management Framework, which aims to enable the Firm to govern, identify, measure, monitor, and test; manage, and report on the Firm\u2019s operational risk.\n\nOperational risk is managed by the LOBs (Line of Businesses) and Corporate, with oversight provided by control managers within each. The Global Chief Compliance Officer (CCO) and FRE for Operational Risk and Qualitative Risk Appetite are responsible for defining this framework and establishing its minimum standards for execution. \n\nInsurance is one way operational risks can be mitigated; the Firm purchases insurance from commercial insurers and maintains a wholly-owned captive insurer, Park Assurance Company.\n\nRisk management includes the identification of risks by Operational Risk and Compliance teams, which escalate these to appropriate LOB and Corporate Control Committees when necessary. Consistent reporting standards are established to ensure that operational risk reports are produced Firmwide as well as by individual LOBs and Corporate units. These reports evaluate key risk and performance indicators against thresholds and assess different types of operational risks against stated risk appetite.\n\nThe framework also includes escalation protocols to senior management and the Board of Directors for significant issues or breaches in risk limits."
+    },
+    {
+        "id": "q7",
+        "question": "How does JPMorgan manage market risk?",
+        "retrieved_chunks": [
+            {
+                "content": "Market risk is the risk associated with the effect of changes in market factors such as interest and foreign exchange rates, equity and commodity prices, credit spreads or implied volatilities, on the value of assets and liabilities held for both the short and long term. Market Risk Management monitors market risks throughout the Firm and defines market risk policies and Market Risk Management seeks to measure risk, facilitate efficient risk/return decisions, reduce volatility in operating performance and provide transparency into the Firm\u2019s market risk profile for senior management, the Board of Directors and regulators. Market Risk Management is responsible for the following functions: \u2022 Maintaining a market risk policy framework \u2022 Independently measuring and monitoring LOB, Corporate, and Firmwide market risk \u2022 Defining, approving and monitoring limits \u2022 Performing stress testing and qualitative risk Measures used to capture market risk There is no single measure to capture market risk and therefore Market Risk Management uses various metrics, both statistical and nonstatistical, to assess risk including: \u2022 Other sensitivity-based measures Market risk exposure is managed",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "Risk is an inherent part of JPMorganChase\u2019s business activities. When the Firm extends a consumer or wholesale loan, advises customers and clients on their investment decisions, makes markets in securities, or offers other products or services, the Firm takes on some degree of risk. The Firm\u2019s overall objective is to manage its business, and the associated risks, in a manner that balances serving the interests of its clients, customers and investors, and protecting the safety and soundness of The Firm believes that effective risk management \u2022 Acceptance of responsibility, including identification and escalation of risks by all individuals within the Firm; \u2022 Ownership of risk identification, assessment, data and management within each of the LOBs and Corporate; \u2022 A Firmwide risk governance and oversight structure. The Firm follows a disciplined and balanced compensation framework with strong internal governance and independent oversight by the Board of Directors (the \u201cBoard\u201d). The impact of risk and control issues is carefully considered in the Firm\u2019s performance evaluation and incentive compensation processes. The Firm\u2019s risk governance framework involves understanding drivers of",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "Conduct risk, a subcategory of operational risk, is the risk that any action or misconduct by an employee could lead to unfair client or customer outcomes, impact the integrity of the markets in which the Firm operates, harm employees or the Firm, or compromise the Firm\u2019s Each LOB and Corporate is accountable for identifying and managing its conduct risk to provide appropriate engagement, ownership and sustainability of a culture consistent with the Firm\u2019s Business Principles. The Business Principles serve as a guide for how employees are expected to conduct themselves. With the Business Principles serving as a guide, the Firm\u2019s Code sets out the Firm\u2019s expectations for each employee and provides information and resources to help employees conduct business ethically and in compliance with applicable laws, rules and regulations everywhere the Firm operates. Refer to Compliance Risk Management on page 150 for further discussion of the Code. The Firm\u2019s oversight and coordination of conduct risk is managed in the same manner as Compliance risk. Refer to Compliance Risk Management on page 150 for further Conduct risk management encompasses various aspects of people management practices",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "Management\u2019s discussion and analysis Strategic risk is the risk to earnings, capital, liquidity or reputation associated with poorly-designed or failed business plans or an inadequate response to changes in The Operating Committee, together with the senior leadership of each LOB and Corporate, are responsible for managing strategic risk. IRM engages regularly in strategic business discussions and decision-making, including participation in relevant business reviews and senior management meetings, risk and control committees and other relevant governance forums, and review of acquisitions and new business initiatives. The Board of Directors oversees management\u2019s strategic decisions, and the Board Risk Committee oversees IRM and the Firm\u2019s risk governance framework. In addition, IRM conducts a qualitative assessment of the LOB and Corporate strategic initiatives to assess their impact on the risk profile of the Firm. The Firm\u2019s strategic planning process, which includes the development of the Firm\u2019s strategic plan and other strategic initiatives, is one component of managing the Firm\u2019s strategic risk. The strategic plan outlines the Firm\u2019s strategic framework and initiatives, and",
+                "metadata": {
+                    "section_id": 12
+                }
+            }
+        ],
+        "actual_answer": "Market Risk Management at JPMorganChase manages market risk by:\n\n- Monitoring market risks throughout the Firm.\n- Defining and maintaining a market risk policy framework.\n- Independently measuring and monitoring market risk at various levels (LOB, Corporate, and Firmwide).\n- Defining, approving, and monitoring limits.\n- Performing stress testing and qualitative risk measures to assess exposure.\n\nThese activities are aimed at capturing market risk through the use of various metrics and ensuring transparency for senior management, the Board of Directors, and regulators."
+    },
+    {
+        "id": "q8",
+        "question": "What factors can negatively impact JPMorgan\u00e2\u20ac\u2122s financial condition?",
+        "retrieved_chunks": [
+            {
+                "content": "The following discussion sets forth the material risk factors that could affect JPMorganChase\u2019s financial condition and operations. Readers should not consider any descriptions of these factors to be a complete set of all potential risks that could affect the Firm. Any of the risk factors discussed below could by itself, or combined with other factors, materially and adversely affect JPMorganChase\u2019s business, results of operations, financial condition, capital position, liquidity, competitive position or reputation, including by materially increasing expenses or decreasing revenues, which could result in material losses or a The principal risk factors include: \u2022 Legal and Regulatory risks, including the impact of extensive supervision and regulation, as well as changes to or in the application, interpretation or enforcement of applicable law or executive branch actions, on JPMorganChase\u2019s business and operations; the ways in which differences in regulatory implementation in different jurisdictions or with respect to certain competitors could negatively impact JPMorganChase\u2019s business; the ways in which governmental policies that discourage or penalize business relationships with",
+                "metadata": {
+                    "section_id": 0
+                }
+            },
+            {
+                "content": "asset values or other adverse macroeconomic conditions. For example, higher interest rates or a market downturn could affect the valuation of client assets that JPMorganChase manages or holds under custody, resulting in lower revenue from fees that are based on the amount of assets under management or custody. Similarly, adverse macroeconomic or market conditions could prompt outflows from JPMorganChase funds or accounts, or cause clients to invest in products that generate lower revenue. Substantial and unexpected withdrawals from a JPMorganChase fund could also hamper the investment performance of the fund, particularly if the outflows create the need for the fund to dispose of fund assets at disadvantageous times or",
+                "metadata": {
+                    "section_id": 0
+                }
+            },
+            {
+                "content": "low or negative interest rates, inflationary pressures, or recessionary conditions. Furthermore, governmental policies and actions, including those relating to pricing of products, taxation, medical insurance, education, immigration, and housing, or those that impact employment status, could reduce consumer disposable income and decrease JPMorganChase's earnings from its consumer Unfavorable market and economic conditions could adversely affect JPMorganChase\u2019s wholesale Market and economic factors can affect the volume of transactions and advisory engagements for which JPMorganChase is engaged and the related revenue from those activities. These factors could also influence the willingness of other financial institutions and investors to participate in capital markets transactions that Furthermore, any significant and sustained deterioration in market conditions could reduce fee revenue due to lower transaction volumes, including when clients are unwilling or unable to refinance their outstanding debt obligations. Additionally, the profitability of JPMorganChase\u2019s capital markets activities could be impacted if it needs to dispose of portions of credit commitments at a loss or",
+                "metadata": {
+                    "section_id": 0
+                }
+            },
+            {
+                "content": "are particularly affected by U.S. and global economic conditions, \u2022 the distribution of personal and household income \u2022 unemployment or underemployment \u2022 the level of inflation and its effect on prices for goods \u2022 consumer and small business confidence levels \u2022 prolonged periods of exceptionally high or low interest rates, or significant changes to interest rates \u2022 changes in the value of collateral such as residential real \u2022 changes in consumer spending or in the level of High unemployment levels could reduce personal and household income, which could degrade consumer credit performance if consumers struggle to service their debts. Adverse economic conditions could also lead to an increase in delinquencies, an increase in the allowance for credit losses or higher net charge-offs, which could reduce JPMorganChase\u2019s earnings. These consequences could be significantly worse if high levels of consumer debt, such as outstanding student loans, impair the ability of customers to pay their other consumer loan obligations, or in certain geographies where declining industrial or manufacturing activity has resulted in or could result in higher levels of unemployment. In addition,",
+                "metadata": {
+                    "section_id": 0
+                }
+            }
+        ],
+        "actual_answer": "The principal risk factors that could affect JPMorganChase\u2019s financial condition include:\n\n- Legal and Regulatory risks.\n- Changes in market and economic conditions, such as higher interest rates or a market downturn which can lower revenue from fees based on assets under management or custody.\n- Adverse macroeconomic or market conditions causing outflows from funds or accounts.\n- Governmental policies that impact consumer disposable income and earnings from consumer products.\n- Unfavorable market and economic conditions affecting the volume of transactions and advisory engagements, leading to lower related revenues.\n- Economic factors impacting capital markets transactions.\n- Potential need for JPMorganChase to dispose of credit commitments at a loss during significant and sustained deterioration in market conditions.\n- High unemployment levels that can reduce personal and household income and consumer credit performance.\n- Prolonged periods of exceptionally high or low interest rates, which could impact the profitability of capital markets activities."
+    },
+    {
+        "id": "q9",
+        "question": "Explain the role of regulatory risks in JPMorgan\u00e2\u20ac\u2122s business.",
+        "retrieved_chunks": [
+            {
+                "content": "Risk is an inherent part of JPMorganChase\u2019s business activities. When the Firm extends a consumer or wholesale loan, advises customers and clients on their investment decisions, makes markets in securities, or offers other products or services, the Firm takes on some degree of risk. The Firm\u2019s overall objective is to manage its business, and the associated risks, in a manner that balances serving the interests of its clients, customers and investors, and protecting the safety and soundness of The Firm believes that effective risk management \u2022 Acceptance of responsibility, including identification and escalation of risks by all individuals within the Firm; \u2022 Ownership of risk identification, assessment, data and management within each of the LOBs and Corporate; \u2022 A Firmwide risk governance and oversight structure. The Firm follows a disciplined and balanced compensation framework with strong internal governance and independent oversight by the Board of Directors (the \u201cBoard\u201d). The impact of risk and control issues is carefully considered in the Firm\u2019s performance evaluation and incentive compensation processes. The Firm\u2019s risk governance framework involves understanding drivers of",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "Reputation risk is the risk of damage to the trust, affinity or goodwill for the Firm held by clients, employees and investors that can result from the Firm\u2019s decisions to engage or not engage with a client or in a business activity and which may lead to negative commercial impacts. The Firm\u2019s decisions related to clients and business activities are made based on a range of commercial considerations, including operational capabilities and expertise, servicing costs, risk relative to opportunity, the prioritization of finite resources and, when relevant, reputation risk considerations. The Firm manages reputation risk through established policies, standards and procedures that are integrated across the LOBs and Corporate functions. Potential reputation risk matters may be escalated to governance forums, as appropriate, including LOB Reputation Risk Committees. The Board Risk Committee also regularly receives information on reputation risk matters, as appropriate.",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "Management\u2019s discussion and analysis Operational risk is the risk of an adverse outcome resulting from inadequate or failed internal processes or systems; human factors; or external events impacting the Firm\u2019s processes or systems. Operational risk includes compliance, conduct, legal, and estimations and model risk. Operational risk is inherent in the Firm\u2019s activities and can manifest itself in various ways, including fraudulent acts, business disruptions (including those caused by extraordinary events beyond the Firm's control), cyber attacks, inappropriate employee behavior, failure to comply with applicable laws, rules and regulations or failure of vendors or other third party providers to perform in accordance with their agreements. Operational Risk Management attempts to manage operational risk at appropriate levels in light of the Firm\u2019s financial position, the characteristics of its businesses, and the markets and regulatory environments in which it operates. Operational Risk Management Framework The Firm\u2019s Compliance, Conduct, and Operational Risk (\u201cCCOR\u201d) Management Framework is designed to enable the Firm to govern, identify, measure, monitor and test, manage and report",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "Management\u2019s discussion and analysis Compliance risk, a subcategory of operational risk, is the risk of failing to comply with laws, rules, regulations or codes of conduct and standards of self-regulatory Each of the LOBs and Corporate hold primary ownership of and accountability for managing their compliance risk. The Firm\u2019s Operational Risk and Compliance Organization (\u201cOperational Risk and Compliance\u201d), which is independent of the LOBs and Corporate, provides independent review, monitoring and oversight of business operations with a focus on compliance with the laws, rules, and regulations applicable to the delivery of the Firm\u2019s products and services to clients and customers. These compliance risks relate to a wide variety of laws, rules and regulations across the LOBs and Corporate, and jurisdictions, and include risks related to financial products and services, relationships and interactions with clients and customers, and employee activities. For example, compliance risks include those associated with anti-money laundering compliance, trading activities, market conduct, and complying with the laws, rules, and regulations related to the offering of products and services",
+                "metadata": {
+                    "section_id": 12
+                }
+            }
+        ],
+        "actual_answer": "Not found in documents"
+    },
+    {
+        "id": "q10",
+        "question": "What risks are there?",
+        "retrieved_chunks": [
+            {
+                "content": "Management\u2019s discussion and analysis Operational risk is the risk of an adverse outcome resulting from inadequate or failed internal processes or systems; human factors; or external events impacting the Firm\u2019s processes or systems. Operational risk includes compliance, conduct, legal, and estimations and model risk. Operational risk is inherent in the Firm\u2019s activities and can manifest itself in various ways, including fraudulent acts, business disruptions (including those caused by extraordinary events beyond the Firm's control), cyber attacks, inappropriate employee behavior, failure to comply with applicable laws, rules and regulations or failure of vendors or other third party providers to perform in accordance with their agreements. Operational Risk Management attempts to manage operational risk at appropriate levels in light of the Firm\u2019s financial position, the characteristics of its businesses, and the markets and regulatory environments in which it operates. Operational Risk Management Framework The Firm\u2019s Compliance, Conduct, and Operational Risk (\u201cCCOR\u201d) Management Framework is designed to enable the Firm to govern, identify, measure, monitor and test, manage and report",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "Reputation risk is the risk of damage to the trust, affinity or goodwill for the Firm held by clients, employees and investors that can result from the Firm\u2019s decisions to engage or not engage with a client or in a business activity and which may lead to negative commercial impacts. The Firm\u2019s decisions related to clients and business activities are made based on a range of commercial considerations, including operational capabilities and expertise, servicing costs, risk relative to opportunity, the prioritization of finite resources and, when relevant, reputation risk considerations. The Firm manages reputation risk through established policies, standards and procedures that are integrated across the LOBs and Corporate functions. Potential reputation risk matters may be escalated to governance forums, as appropriate, including LOB Reputation Risk Committees. The Board Risk Committee also regularly receives information on reputation risk matters, as appropriate.",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "Climate risk refers to the potential threats posed by climate change to the Firm and its clients, customers, operations and business strategy. Climate change is viewed as a driver of risk that may impact existing types of risks managed by the Firm. Climate risk is categorized into physical risk and transition risk. Physical risk involves economic costs and financial losses due to a changing climate. Acute physical risk drivers include the increased frequency or severity of climate and weather events, such as floods, wildfires and tropical cyclones. Chronic physical risk drivers include more gradual shifts in the climate, such as sea level rise, persistent changes in precipitation levels and increases in average ambient temperatures. Indirect physical risk drivers include the second-order effects of these acute and chronic risks, such as supply chain disruptions or changes to property valuations. Transition risk involves the financial and economic consequences of society\u2019s shift toward a lower-carbon economy. Transition risk drivers include possible changes in public policy, adoption of new technologies and shifts in consumer preferences. Transition risks may also be influenced by",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "Conduct risk, a subcategory of operational risk, is the risk that any action or misconduct by an employee could lead to unfair client or customer outcomes, impact the integrity of the markets in which the Firm operates, harm employees or the Firm, or compromise the Firm\u2019s Each LOB and Corporate is accountable for identifying and managing its conduct risk to provide appropriate engagement, ownership and sustainability of a culture consistent with the Firm\u2019s Business Principles. The Business Principles serve as a guide for how employees are expected to conduct themselves. With the Business Principles serving as a guide, the Firm\u2019s Code sets out the Firm\u2019s expectations for each employee and provides information and resources to help employees conduct business ethically and in compliance with applicable laws, rules and regulations everywhere the Firm operates. Refer to Compliance Risk Management on page 150 for further discussion of the Code. The Firm\u2019s oversight and coordination of conduct risk is managed in the same manner as Compliance risk. Refer to Compliance Risk Management on page 150 for further Conduct risk management encompasses various aspects of people management practices",
+                "metadata": {
+                    "section_id": 12
+                }
+            }
+        ],
+        "actual_answer": "The following risks are mentioned:\n\n- Operational risk\n- Reputation risk\n- Climate risk\n- Conduct risk\n\nThese risks and their subcategories are discussed within the provided context."
+    },
+    {
+        "id": "q11",
+        "question": "Tell me about risks.",
+        "retrieved_chunks": [
+            {
+                "content": "Climate risk refers to the potential threats posed by climate change to the Firm and its clients, customers, operations and business strategy. Climate change is viewed as a driver of risk that may impact existing types of risks managed by the Firm. Climate risk is categorized into physical risk and transition risk. Physical risk involves economic costs and financial losses due to a changing climate. Acute physical risk drivers include the increased frequency or severity of climate and weather events, such as floods, wildfires and tropical cyclones. Chronic physical risk drivers include more gradual shifts in the climate, such as sea level rise, persistent changes in precipitation levels and increases in average ambient temperatures. Indirect physical risk drivers include the second-order effects of these acute and chronic risks, such as supply chain disruptions or changes to property valuations. Transition risk involves the financial and economic consequences of society\u2019s shift toward a lower-carbon economy. Transition risk drivers include possible changes in public policy, adoption of new technologies and shifts in consumer preferences. Transition risks may also be influenced by",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "Management\u2019s discussion and analysis Operational risk is the risk of an adverse outcome resulting from inadequate or failed internal processes or systems; human factors; or external events impacting the Firm\u2019s processes or systems. Operational risk includes compliance, conduct, legal, and estimations and model risk. Operational risk is inherent in the Firm\u2019s activities and can manifest itself in various ways, including fraudulent acts, business disruptions (including those caused by extraordinary events beyond the Firm's control), cyber attacks, inappropriate employee behavior, failure to comply with applicable laws, rules and regulations or failure of vendors or other third party providers to perform in accordance with their agreements. Operational Risk Management attempts to manage operational risk at appropriate levels in light of the Firm\u2019s financial position, the characteristics of its businesses, and the markets and regulatory environments in which it operates. Operational Risk Management Framework The Firm\u2019s Compliance, Conduct, and Operational Risk (\u201cCCOR\u201d) Management Framework is designed to enable the Firm to govern, identify, measure, monitor and test, manage and report",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "Market risk is the risk associated with the effect of changes in market factors such as interest and foreign exchange rates, equity and commodity prices, credit spreads or implied volatilities, on the value of assets and liabilities held for both the short and long term. Market Risk Management monitors market risks throughout the Firm and defines market risk policies and Market Risk Management seeks to measure risk, facilitate efficient risk/return decisions, reduce volatility in operating performance and provide transparency into the Firm\u2019s market risk profile for senior management, the Board of Directors and regulators. Market Risk Management is responsible for the following functions: \u2022 Maintaining a market risk policy framework \u2022 Independently measuring and monitoring LOB, Corporate, and Firmwide market risk \u2022 Defining, approving and monitoring limits \u2022 Performing stress testing and qualitative risk Measures used to capture market risk There is no single measure to capture market risk and therefore Market Risk Management uses various metrics, both statistical and nonstatistical, to assess risk including: \u2022 Other sensitivity-based measures Market risk exposure is managed",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "evolution, business decisions, process or judgment error, deliberate wrongdoing, dysfunctional markets and natural Types of risks are categories by which risks manifest themselves. The Firm\u2019s risks are generally categorized in \u2022 Strategic risk is the risk to earnings, capital, liquidity or reputation associated with poorly-designed or failed business plans or an inadequate response to changes \u2022 Credit and investment risk is the risk associated with the default or change in credit profile of a client, counterparty or customer; or loss of principal or a reduction in expected returns on investments, including consumer credit risk, wholesale credit risk and \u2022 Market risk is the risk associated with the effect of changes in market factors, such as interest and foreign exchange rates, equity and commodity prices, credit spreads or implied volatilities, on the value of assets and liabilities held for both the short and long term. \u2022 Operational risk is the risk of an adverse outcome resulting from inadequate or failed internal processes or systems; human factors; or external events impacting the Firm\u2019s processes or systems. Operational risk includes cybersecurity, compliance, conduct,",
+                "metadata": {
+                    "section_id": 12
+                }
+            }
+        ],
+        "actual_answer": "Risks are categorized as follows based on the provided context:\n\n- **Climate risk**: Refers to potential threats posed by climate change to the Firm and its clients, customers, operations, and business strategy. It is further divided into physical risk and transition risk.\n  - **Physical Risk**: Economic costs and financial losses due to a changing climate, driven by acute (increased frequency or severity of events like floods, wildfires, tropical cyclones) and chronic (gradual shifts in climate such as sea level rise, changes in precipitation levels, increases in average ambient temperatures) factors. Indirect physical risks include supply chain disruptions or changes to property valuations.\n  - **Transition Risk**: Financial and economic consequences of society\u2019s shift towards a lower-carbon economy, driven by possible policy changes, adoption of new technologies, and shifts in consumer preferences.\n\n- **Operational risk**: The risk of an adverse outcome from inadequate or failed internal processes or systems; human factors; or external events impacting the Firm. This includes compliance, conduct, legal, and estimation/modeling risks, as well as cybersecurity and vendor issues.\n\n- **Market risk**: Risk associated with changes in market factors such as interest rates, foreign exchange rates, equity prices, commodity prices, credit spreads, or implied volatilities on assets and liabilities held by the Firm. Market Risk Management aims to measure, monitor, and manage these risks through various metrics including sensitivity-based measures.\n\n- **Strategic risk**: Risk associated with poorly-designed business plans or inadequate responses to changes, potentially impacting earnings, capital, liquidity, or reputation.\n  \n- **Credit and investment risk**: Risk of default, change in credit profile, loss of principal, or reduction in expected returns on investments. This includes consumer credit risk, wholesale credit risk.\n\nThese risks are managed through various frameworks such as Operational Risk Management and Market Risk Management, which involve policies, monitoring, limit-setting, and stress testing to ensure the Firm's resilience against these potential threats."
+    },
+    {
+        "id": "q12",
+        "question": "Explain that more.",
+        "retrieved_chunks": [
+            {
+                "content": "Item 13. Certain Relationships and Related Transactions, and Director Independence.",
+                "metadata": {
+                    "section_id": 10
+                }
+            },
+            {
+                "content": "Item 11. Executive Compensation.",
+                "metadata": {
+                    "section_id": 8
+                }
+            },
+            {
+                "content": "Item 4. Mine Safety Disclosures. |December 31, 2025<br>(in millions)|Approximate<br>square footage|",
+                "metadata": {
+                    "section_id": 2
+                }
+            },
+            {
+                "content": "issued by U.S. state and municipal governments. Refer to Note 2 and Note 10 for further information.<br>(e) All other includes: SPEs and Private education and civic organizations, representing approximately 95% and 5%, respectively, at December 31, 2025,<br>and 94% and 6%, respectively, at December 31, 2024. Refer to Note 14 for more information on exposures to SPEs.|Col2|Col3| |(e)|All other includes: SPEs and Private|All other includes: SPEs and Private| |||and 94% and 6%, respectively, at December 31,|",
+                "metadata": {
+                    "section_id": 12
+                }
+            }
+        ],
+        "actual_answer": "Not found in documents"
+    },
+    {
+        "id": "q13",
+        "question": "What is JPMorgan\u00e2\u20ac\u2122s stock price?",
+        "retrieved_chunks": [
+            {
+                "content": "involving Visa. The conversion rate of Visa B-2 shares to Visa A shares was 1.5108 at December 31, 2025 and may be adjusted by Visa depending on developments related to the litigation matters. The outcome of those litigation matters, and the effect that the resolution of those matters may have on the conversion rate, is unknown. Accordingly, as of December 31, 2025, there is significant uncertainty regarding when the transfer restrictions on Visa B-2 shares may be terminated and what the final conversion rate for the Visa B-2 shares will be. As a result of these considerations, as well as differences in voting rights, Visa B-2 shares are not considered to be similar to Visa A shares, and are held at their nominal carryover basis. On February 13, 2026, Visa Inc. (\u201cVisa\u201d) announced that its Board of Directors has authorized Visa to proceed with a successive exchange offer in respect of Visa\u2019s outstanding Class B common stock with timing, terms, and conditions as discussed in Visa\u2019s disclosure. The timing and likelihood of any future exchange offer is dependent upon actions taken by Visa and other factors that are outside of the Firm\u2019s control. Separately, in connection with sales of",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "TCE, ROTCE and TBVPS are each non-GAAP financial measures. TCE represents the Firm\u2019s common stockholders\u2019 equity (i.e., total stockholders\u2019 equity less preferred stock) less goodwill and identifiable intangible assets (other than MSRs), net of related deferred tax liabilities. ROTCE measures the Firm\u2019s net income applicable to common equity as a percentage of average TCE. TBVPS represents the Firm\u2019s TCE at period-end divided by common shares at period-end. TCE, ROTCE and TBVPS are utilized by the Firm, as well as investors and analysts, in assessing the Firm\u2019s use of equity. The following summary table provides a reconciliation from the Firm\u2019s common stockholders\u2019 equity to TCE. Dec 31, Dec 31, Year ended December 31, (in millions, except per share and ratio data) 2024 Common stockholders\u2019 equity Add: Certain deferred tax liabilities Return on tangible common equity (a) Represents deferred tax liabilities related to tax-deductible goodwill and to identifiable intangibles created in nontaxable transactions, which are netted against goodwill and other intangibles when calculating TCE. |Col1|Period-end|Col3|Col4|Average|Col6|Col7| ||**Dec 31,**<br>**2025**|Dec 31,<br>2024||Year ended",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "recognized in other income. The notional amount of shares associated with those derivative instruments has been adjusted as a result of the 2024 Visa exchange offer. As of December 31, 2025, the Firm held derivative instruments associated with 11.6 million Visa B-2 shares related to Visa B share sales prior to 2024, which are all subject to similar terms and conditions. |the nonrecurring fair value tables when applicable price changes are observable.|Col2|Col3|Col4| |As of or for the year ended December 31,||||",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "stock, Series X. On August 1, 2024, the Firm redeemed all $2.3 billion of its fixed-to-floating rate non-cumulative preferred stock, Series FF. On May 1, 2024, the Firm redeemed all $5.0 billion of its fixed-to-floating rate non-cumulative preferred stock, Series Q, On April 30, 2024, the Firm redeemed all $1.0 billion of its fixed-to-floating rate non-cumulative preferred stock, Series U. Each series of the Firm\u2019s preferred stock may be redeemed on any dividend payment date on or after the earliest redemption date for that series. All outstanding preferred stock series may also be redeemed following a \u201ccapital treatment event,\u201d as described in the terms of each series. Any redemption of the Firm\u2019s preferred stock is subject to non-objection from the Board of Governors of the Federal Reserve System (the \u201cFederal Reserve\u201d).",
+                "metadata": {
+                    "section_id": 12
+                }
+            }
+        ],
+        "actual_answer": "Not found in documents"
+    },
+    {
+        "id": "q14",
+        "question": "Who is the CEO of JPMorgan in 2026?",
+        "retrieved_chunks": [
+            {
+                "content": "\u2022 On December 8, 2025, JPMorganChase announced that Todd A. Combs had resigned from the Firm\u2019s Board of Directors and would join the Firm as the head of the Strategic Investment Group within the Firm\u2019s Security The statements set forth below are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Such forward-looking statements are based on the beliefs and expectations of JPMorganChase\u2019s management, speak only as of the date on which they were made, and are subject to significant risks and uncertainties. Refer to Forward- Looking Statements on page 160 and Part I, Item 1A: Risk Factors on pages 9\u201331 of this Form 10-K for a further discussion of certain of those risks and uncertainties and the other factors that could cause JPMorganChase\u2019s actual results to differ materially because of those risks and uncertainties. There is no assurance that actual results in 2026 will be in line with the outlook information set forth below, and the Firm does not undertake to update any forward-looking statements. JPMorganChase\u2019s outlook for full-year 2026 should be viewed against the backdrop of the global and U.S. economies, financial markets",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "of certain of those risks and uncertainties and the other factors that could cause JPMorganChase\u2019s actual results to differ materially because of those risks and uncertainties. There is no assurance that actual results in 2026 will be in line with the outlook information set forth below, and the Firm does not undertake to update any forward-looking statements. JPMorganChase\u2019s outlook for full-year 2026 should be viewed against the backdrop of the global and U.S. economies, financial markets activity, the geopolitical environment, the competitive environment, client and customer activity levels, and regulatory and legislative developments in the U.S. and other countries where the Firm does business. Each of these factors will affect the performance of the Firm. The Firm will continue to make appropriate adjustments to its businesses and operations in response to ongoing developments in the business, economic, regulatory and legal environments in which it The Firm provided the following outlook information on January 13, 2026 in connection with announcing its results for the year and quarter ended December 31, \u2022 Management expects net interest income to be approximately $103 billion",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "\u2013 a decrease in CCB primarily driven by increased Refer to Liquidity Risk Management on pages 100\u2013107 Selected capital and other metrics \u2022 CET1 capital was $288.5 billion, and the Standardized and Advanced CET1 ratios were 14.6% and 14.1%, \u2022 TBVPS grew 10.5%, ending 2025 at $107.56. \u2022 As of December 31, 2025, the Firm had eligible end-of- period High Quality Liquid Assets (\u201cHQLA\u201d) of approximately $915 billion and unencumbered marketable securities with a fair value of approximately $548 billion, resulting in approximately $1.5 trillion of liquidity sources. Refer to Capital Risk Management and Liquidity Risk Management on pages 89\u201399 and pages 100\u2013107, respectively, for additional information.",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "As of January 1, 2026, changes to the Firm\u2019s capital allocations are primarily a result of updates to the Firm\u2019s current capital requirements and changes in RWA for each LOB under rules currently in effect. Any capital that the Firm has accumulated in excess of these current requirements, including the capital required to meet the potential increased requirements of the U.S. Basel III proposal, has been retained in Corporate in addition to its allocated balance. The following table presents the capital allocated to each |of the change.|Col2|Col3|Col4|Col5|Col6|Col7|Col8|Col9| |---|---|---|---|---|---|---|---|---| ||**Standardized**|**Standardized**|**Standardized**||**Advanced**|**Advanced**|**Advanced**|**Advanced**| |Year ended December 31,<br>2025<br>(in millions)|Credit risk<br>RWA<br>(c)|Market risk<br>RWA|**Total RWA**||Credit risk<br>RWA<br>(c)(d)|Market risk<br>RWA|Operational risk<br>RWA|**Total RWA**| |Three months ended<br>(in millions, except ratio)|December 31,<br>2025|December 31,<br>2024| |LOB and Corporate.|Col2|Col3|Col4| |(in billions)|**January 1,**<br>**2026**|2025|2024|",
+                "metadata": {
+                    "section_id": 12
+                }
+            }
+        ],
+        "actual_answer": "not found in documents"
+    },
+    {
+        "id": "q15",
+        "question": "What is inflation rate in the US?",
+        "retrieved_chunks": [
+            {
+                "content": "and liabilities<br>Cash flow hedge<br>Corporate<br>213<br>\u2022 Foreign exchange<br>Hedge foreign currency-denominated assets and liabilities<br>Fair value hedge<br>Corporate<br>211-212<br>\u2022 Foreign exchange<br>Hedge foreign currency-denominated forecasted revenue and expense<br>Cash flow hedge<br>Corporate<br>213<br>\u2022 Foreign exchange<br>Hedge the value of the Firm\u2019s investments in non-U.S. dollar functional<br>currency entities<br>Net investment hedge<br>Corporate<br>214<br>\u2022 Commodity<br>Hedge commodity inventory<br>Fair value hedge<br>CIB, AWM<br>211-212|Manage specifically identified risk exposures in qualifying hedge accounting relationships:<br>\u2022 Interest rate<br>Hedge fixed rate assets and liabilities<br>Fair value hedge<br>Corporate<br>211-212<br>\u2022 Interest rate<br>Hedge floating-rate assets and liabilities<br>Cash flow hedge<br>Corporate<br>213<br>\u2022 Foreign exchange<br>Hedge foreign currency-denominated assets and liabilities<br>Fair value hedge<br>Corporate<br>211-212<br>\u2022 Foreign exchange<br>Hedge foreign currency-denominated forecasted revenue and expense<br>Cash flow hedge<br>Corporate<br>213<br>\u2022 Foreign exchange<br>Hedge the value of the Firm\u2019s investments in non-U.S.",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "changes in interest rates. Fixed-rate assets and liabilities appreciate or depreciate in market value as interest rates change. Similarly, interest income and expense increase or decrease as a result of variable-rate assets and liabilities resetting to current market rates, and as a result of the repayment and subsequent origination or issuance of fixed-rate assets and liabilities at current market rates. Gains and losses on the derivative instruments related to these assets and liabilities are expected to substantially offset this variability. Foreign currency derivatives are used to manage the foreign exchange risk associated with certain foreign currency\u2013denominated (i.e., non-U.S. dollar) assets and liabilities and forecasted transactions, as well as the Firm\u2019s net investments in certain non-U.S. subsidiaries or branches whose functional currencies are not the U.S. dollar. As a result of fluctuations in foreign currencies, the U.S. dollar\u2013equivalent values of the foreign currency\u2013 denominated assets and liabilities or the forecasted revenues or expenses increase or decrease. Gains or losses on the derivative instruments related to these foreign currency\u2013denominated assets or",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "and liabilities<br>Fair value hedge<br>Corporate<br>211-212<br>\u2022 Interest rate<br>Hedge floating-rate assets and liabilities<br>Cash flow hedge<br>Corporate<br>213<br>\u2022 Foreign exchange<br>Hedge foreign currency-denominated assets and liabilities<br>Fair value hedge<br>Corporate<br>211-212<br>\u2022 Foreign exchange<br>Hedge foreign currency-denominated forecasted revenue and expense<br>Cash flow hedge<br>Corporate<br>213<br>\u2022 Foreign exchange<br>Hedge the value of the Firm\u2019s investments in non-U.S. dollar functional<br>currency entities<br>Net investment hedge<br>Corporate<br>214<br>\u2022 Commodity<br>Hedge commodity inventory<br>Fair value hedge<br>CIB, AWM<br>211-212|Manage specifically identified risk exposures in qualifying hedge accounting relationships:<br>\u2022 Interest rate<br>Hedge fixed rate assets and liabilities<br>Fair value hedge<br>Corporate<br>211-212<br>\u2022 Interest rate<br>Hedge floating-rate assets and liabilities<br>Cash flow hedge<br>Corporate<br>213<br>\u2022 Foreign exchange<br>Hedge foreign currency-denominated assets and liabilities<br>Fair value hedge<br>Corporate<br>211-212<br>\u2022 Foreign exchange<br>Hedge foreign currency-denominated forecasted revenue and expense<br>Cash",
+                "metadata": {
+                    "section_id": 12
+                }
+            },
+            {
+                "content": "Funds transfer pricing (\u201cFTP\u201d) is the process by which the Firm allocates interest income and expense to the LOBs and Other Corporate and transfers the primary interest rate risk and liquidity risk to Treasury and CIO. The funds transfer pricing process considers the interest rate and liquidity risk characteristics of assets and liabilities and off-balance sheet products. Periodically, the methodology and assumptions utilized in the FTP process are adjusted to reflect economic conditions and other factors, which may impact the allocation of net interest income to the segments. Effective in the fourth quarter of 2024, the Firm updated its FTP with respect to consumer deposits, which resulted in an increase in the funding benefit reflected within CCB\u2019s net interest income that is fully offset in Corporate, with no effect on the Firm\u2019s net As a result of lower average interest rates in the current year, the cost of funding for assets and the funding benefit earned for liabilities generally decreased compared with the prior year. During the period ended December 31, 2025, this resulted in a lower cost of funds for loans and Markets activities. In addition, the FTP benefit for deposits",
+                "metadata": {
+                    "section_id": 12
+                }
+            }
+        ],
+        "actual_answer": "Not found in documents"
+    }
+]

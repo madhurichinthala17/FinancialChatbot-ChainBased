@@ -33,7 +33,7 @@ from Helpers.splitter import split_by_sections
 #             )
 #         )
 def build_chunks(filtered_docs) -> list:
-    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=400)
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1200, chunk_overlap=500)
     full_text = "\n".join(doc.page_content for doc in filtered_docs)
     sections = split_by_sections(full_text)
     final_docs = []

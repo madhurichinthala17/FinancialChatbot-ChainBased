@@ -437,7 +437,7 @@
         ],
         "actual_answer": "The provided context does not contain sufficient information to explain \"more\" in the specific sense requested. The sections mentioned (Item 13, Item 11, additional information, and Mine Safety Disclosures) refer to different topics such as certain relationships and related transactions, executive compensation, financial data, and mine safety disclosures respectively. Without a specific question or context about what aspect of these sections needs further explanation, it's not possible to provide an adequate response using the given documents.",
         "scores": {
-            "correctness": 5,
+            "correctness": 1,
             "faithfulness": 2,
             "relevance": 1,
             "notes": ""

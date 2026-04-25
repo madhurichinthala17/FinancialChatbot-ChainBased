@@ -5,7 +5,7 @@ from Helpers.sessionhistory import clear_session_history
 
 project_root = Path(__file__).parent.parent
 dataset_path = project_root / "testdata" / "evals" / "v1_dataset.json"
-
+results_path = project_root / "testdata" / "evals" / "v2_dataset.json"
 
 with open(dataset_path, "r") as f:
     data = json.load(f)
