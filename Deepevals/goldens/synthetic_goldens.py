@@ -26,3 +26,7 @@ goldens = synthesizer.generate_goldens_from_docs(
         embedder = embeddingmodel
     )
 )
+
+dataset=EvaluationDataset()
+
+dataset.push("Synthetic Golden from Doc")

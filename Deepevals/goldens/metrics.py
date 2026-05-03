@@ -13,13 +13,12 @@ from deepeval.metrics import (
 testcases = get_testcases()
 
 
-
 evaluate(test_cases=testcases,metrics = [AnswerRelevancyMetric()], identifier="v1")
 
-evaluate(test_cases=testcases,metrics = [FaithfulnessMetric(model=model)], identifier="v1")
+evaluate(test_cases=testcases,metrics = [FaithfulnessMetric()], identifier="v1")
 
-evaluate(test_cases=testcases,metrics = [ContextualPrecisionMetric(model=model)], identifier="v1")
+evaluate(test_cases=testcases,metrics = [ContextualPrecisionMetric()], identifier="v1")
 
-evaluate(test_cases=testcases,metrics = [ContextualRecallMetric(model=model)], identifier="v1")
+evaluate(test_cases=testcases,metrics = [ContextualRecallMetric()], identifier="v1")
 
-evaluate(test_cases=testcases,metrics = [ContextualRelevancyMetric(model=model)], identifier="v1")
+evaluate(test_cases=testcases,metrics = [ContextualRelevancyMetric()], identifier="v1")
