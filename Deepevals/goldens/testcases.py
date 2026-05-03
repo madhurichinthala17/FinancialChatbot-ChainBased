@@ -1,23 +1,32 @@
-from Deepevals.login import run_login
 from deepeval.dataset import EvaluationDataset
-from utils.eval_service import get_response_with_context
 from deepeval.test_case import LLMTestCase
-from utils.eval_service import eval_service
+from utils.eval_service import get_response_with_context
+from Helpers.sessionhistory import clear_session_history
 
-dataset=EvaluationDataset()
+dataset = EvaluationDataset()
 dataset.pull(alias="Manual Golden Dataset")
 
-test_cases =[]
+test_cases = []
+i = 0
 
-for golden in dataset.goldens
+def store_testcases():
+    global i
+    for golden in dataset.goldens:
+        session_id = "abc"
+        actual_answer, retrieved_chunks = get_response_with_context(golden.input, session_id)
+        clear_session_history(session_id)
+        testcase = LLMTestCase(
+            input=golden.input,
+            actual_output=actual_answer,
+            retrieval_context = ["".join(chunk['content'] + "\n" for chunk in retrieved_chunks)],  
+            expected_output=golden.expected_output
+        )
+        test_cases.append(testcase)
+        print(f"---- Loaded TC : {i} -----")
+        i += 1
+    return test_cases
 
-
-
-
-
-
-
-
-
-
-
+def get_testcases():
+    if len(test_cases) == 0:
+        return store_testcases()
+    return test_cases

@@ -12,9 +12,6 @@ template = ChatPromptTemplate([
 
      Question:
      {query}
-     Rules:
-        - Do NOT infer or assume beyond the context
-        - If answer is not explicitly stated, say "not found in documents"
     """)
 ])
 
